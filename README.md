@@ -14,3 +14,5 @@ Mail
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
 ## Skills
+
+## Hobbies
